@@ -7,7 +7,7 @@ To get Windows Terminal, check out the Microsoft Store, which should have the la
 
 I'll glace over the WSL steps. First you need to enable the following Windows features: Virtual Machine Platform; Windows Subsystem for Linux.
 
-![Windows Feature](https://github.com/SteveCadaver/wsl_config/tree/master/resources/windows_feature.PNG)
+![Windows Feature](https://github.com/SteveCadaver/wsl_config/raw/master/resources/windows_feature.PNG)
 
 
 Next you need to find a prefered distro WSL, which you may find by searching WSL in the Microsoft Store. Common distros include Ubuntu 20.04 LTS, Debian and Alphine. Im currently testing the Debian WSL.
